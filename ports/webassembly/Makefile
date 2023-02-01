@@ -29,6 +29,7 @@ SRC_C = \
 	main.c \
 	mphalport.c \
 	modutime.c \
+	modjsffi.c \
 
 SRC_QSTR += $(SRC_C) $(SRC_SHARED)
 
